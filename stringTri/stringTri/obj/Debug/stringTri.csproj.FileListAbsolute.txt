@@ -1,0 +1,7 @@
+C:\Users\Leon\source\repos\stringTri\stringTri\bin\Debug\stringTri.exe.config
+C:\Users\Leon\source\repos\stringTri\stringTri\bin\Debug\stringTri.exe
+C:\Users\Leon\source\repos\stringTri\stringTri\bin\Debug\stringTri.pdb
+C:\Users\Leon\source\repos\stringTri\stringTri\obj\Debug\stringTri.csproj.AssemblyReference.cache
+C:\Users\Leon\source\repos\stringTri\stringTri\obj\Debug\stringTri.csproj.CoreCompileInputs.cache
+C:\Users\Leon\source\repos\stringTri\stringTri\obj\Debug\stringTri.exe
+C:\Users\Leon\source\repos\stringTri\stringTri\obj\Debug\stringTri.pdb
